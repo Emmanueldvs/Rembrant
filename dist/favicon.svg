@@ -1,0 +1,8 @@
+<svg xmlns="https://www.svgrepo.com/302162/streetlight-architecture-and-city.svg" fill="none" viewBox="0 0 128 128">
+    <style>
+        path { fill: #000; }
+        @media (prefers-color-scheme: dark) {
+            path { fill: #FFF; }
+        }
+    </style>
+</svg>
